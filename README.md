@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jmstrupeni
 - 👀 I’m interested in data analysis and machine learning
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently developing in Python
 
 <!---
 jmstrupeni/jmstrupeni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
